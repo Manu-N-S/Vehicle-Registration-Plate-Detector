@@ -1,4 +1,5 @@
 gunicorn
+opencv-python
 numpy
 flask
 tesseract
